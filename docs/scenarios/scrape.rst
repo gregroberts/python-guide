@@ -99,3 +99,6 @@ using Python or we can save it to a file and share it with the world.
 A cool idea to think about is modifying this script to iterate through
 the rest of the pages of this example dataset or rewriting this
 application to use threads for improved speed.
+
+
+<add a bit here about how using mechanize is good for pages which only fully render after having been rendered by a browser>
